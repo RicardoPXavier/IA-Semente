@@ -63,8 +63,8 @@ Este notebook implementa um sistema completo de classificação inteligente para
 **Dica: Para obter os melhores resultados, execute todas as células em sequência. O sistema automatically escolherá a melhor configuração baseada no F1-Score.
 
 Desenvolvido por
-Ricardo de Paula Xavier
-Matheus Floriano Saito
-João Victor Bonilha
+- Ricardo de Paula Xavier
+- Matheus Floriano Saito
+- João Victor Bonilha
 
 **Codigo Base foi disponibilizado pelo professor da disciplina**
